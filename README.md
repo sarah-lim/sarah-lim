@@ -1,11 +1,11 @@
 # Sarah Lim - @sarah-lim 👋
-Hi I'm Sarah - Software Engineer with years of experience in developing Android applications.
+Hi I'm Sarah - Software Engineer with years of experience in developing Android applications. This is my playground to practice different techs.
 
 
 - 👀 I’m interested in Mobile Development
 - 🌱 I’m currently learning Kotlin
 - 🍀 A Flutter newbie
-- ⚡ Fun fact: Stressed?? 🍜
+- ⚡ Fun fact: Stressed?? 🍜🍜🍜🍜
 
 
 # 🍵 Connect with Me
